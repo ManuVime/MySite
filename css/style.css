@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    text-align: center;
+}
+
+div {
+    background-color: #FFF4E0 ;
+    text-align: center;
+}
+
+h1 {
+    width: 50%;
+    margin: 0 auto 0;
+    padding: 30px;
+    font-size: 65px;
+    font-family: Sacramento, arial, cursive;
+}
+
+p {
+    font-size: 30px;
+    font-family: arial, cursive;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+#mountain {
+
+}
+
+#cloud2 {
+    position: absolute;
+}
+
+#cloud1 {
+    position: absolute;
+    left: 70%;
+}
